@@ -1,0 +1,23 @@
+body{
+    font-size: 22px;
+}
+
+.tag{
+    border: solid 2px black;
+    margin: 2px;
+}
+ul, ol{
+    padding-left: 0%;
+}
+
+button{
+    border: outset, double;
+    background-color: blanchedalmond;
+    padding: 2%;
+}
+
+#chou{
+    
+    text-align: center;
+    background: linear-gradient(to right, red, blue, black, yellow);
+}
